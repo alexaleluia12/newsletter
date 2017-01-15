@@ -19,6 +19,8 @@
     </tbody>
 </table>
 
+<a href="<?php echo site_url('news/'); ?>">Noticias</a>
+<a href="<?= site_url('news/create/');?>">Escrever noticia</a>
 
 
 
